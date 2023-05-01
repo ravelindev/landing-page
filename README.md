@@ -14,4 +14,4 @@ ou can look into the IMG folder to see the given images.
 
 ![Image 01](../landing-page/img/01.png)
 ![Image 02](../landing-page/img/02.png)
-<img src="../landing-page/img/01.png">
+<img src="../landing-page/img/01.png" alt="show me">
