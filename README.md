@@ -13,5 +13,5 @@ The design provide comes in the form of 2 images: one is an image of the complet
 ou can look into the IMG folder to see the given images.
 
 ![Image 01](../landing-page/img/01.png)
-![Image 02](./landing-page/img/02.png)
-<img src="./landing-page/img/01.png" alt="show me">
+![Image 02](img/02.png)
+<img src="/landing-page/img/01.png" alt="show me">
