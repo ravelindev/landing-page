@@ -11,3 +11,6 @@ The design provide comes in the form of 2 images: one is an image of the complet
 # Images
 
 ou can look into the IMG folder to see the given images.
+
+![01.png](01.png)
+![02.png](02.png)
