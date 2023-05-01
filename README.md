@@ -12,10 +12,6 @@ The design provide comes in the form of 2 images: one is an image of the complet
 
 ou can look into the IMG folder to see the given images.
 
-![01.png](../landing-page/img/01.png)
-![02.png](../landing-page/img/02.png)
-
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="../img/01.png" width="350" alt="accessibility text">
-</p>
+![Image 01](../landing-page/img/01.png)
+![Image 02](../landing-page/img/02.png)
+<img src="../landing-page/img/01.png">
