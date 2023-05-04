@@ -47,7 +47,7 @@ ul li a{
 button{
     margin-top: 12px;
     background-color: #eaff00; /* Green */
-    border: none;
+    border: 2px solid blue;
     color: rgb(0, 0, 0);
     padding: 15px 32px;
     text-align: center;
@@ -147,4 +147,12 @@ button{
     margin-top: 12px;
     background-color: yellow;
     border: 2px solid blue;
+   }
+
+   .section-5{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    padding: 20px;
    }
