@@ -64,3 +64,53 @@ button{
     border-radius: 8px;
     border:1px solid yellow;
   }
+
+
+  .section-2 {
+    text-align: center;
+  }
+
+  .services {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 1;
+    flex-wrap: wrap;
+    /* gap: 10px; */
+  }
+
+  .img-services {
+    text-align: center;
+  }
+
+  .img-services img {
+    max-width: 50%;
+  }
+
+
+  .section-2 h2{
+    padding: 20px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.services img{
+    max-width: 500px;
+    width: 280px;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid rgb(0, 0, 0);
+}
+.services{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-services{
+    padding: 40px;
+}
+
+.section-3{
+    background-color: black;
+    color: yellow;
+}
